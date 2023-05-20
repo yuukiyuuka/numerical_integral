@@ -1,0 +1,6 @@
+ metode integrasi =simpson             
+ jumlah titik integrasi =         500
+ hasil analitik =   2.4706283636063247     
+ hasil numerik =   2.4706283641682809     
+ kesalahan relatif =   2.2745479149430694E-008 %
+ tingkat konvergensi =   99.999999977254518      %

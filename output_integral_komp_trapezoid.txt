@@ -1,0 +1,5 @@
+ jumlah titik integrasi =          30
+ hasil analitik =   2.4706283636063247     
+ hasil numerik =   2.4706714754726167     
+ kesalahan relatif =   1.7449757692044460E-003 %
+ tingkat konvergensi =   99.998255024230801      %

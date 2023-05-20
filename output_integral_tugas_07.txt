@@ -1,0 +1,3 @@
+ metode integrasi =  trapezoid           
+ jumlah titik integrasi =        1000
+ hasil numerik =   2.4740216383184639
